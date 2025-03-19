@@ -8,6 +8,6 @@ spring:
           uri: git@github.com:marc1928/config-repo-materials-tech.git
 
 server:
-  port: 8085
+  port: 8082
 
 
